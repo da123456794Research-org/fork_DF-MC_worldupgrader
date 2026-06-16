@@ -3,13 +3,10 @@
     "maxVersionMinor": 21,
     "maxVersionPatch": 60,
     "maxVersionRevision": 33,
-    "renamedIds": {
-        "minecraft:chain": "minecraft:iron_chain"
-    },
     "addedProperties": {
-        "minecraft:lightning_rod": {
-            "powered_bit": {
-                "byte": 0
+        "minecraft:potent_sulfur": {
+            "potent_sulfur_state": {
+                "string": "dry"
             }
         }
     }
